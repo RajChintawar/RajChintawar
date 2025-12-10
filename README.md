@@ -59,6 +59,7 @@
 
 
 
+![snake gif](https://github.com/RajChintawar/RajChintawar/blob/output/snake.svg)
 
 
 
