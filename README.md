@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <ul style="font-size:19px;">
-  <li>Solid foundation in <b>Java</b>, <b>Python</b>, and <b>C++</b></li>
+  <li>Foundation in <b>Java</b>, <b>Python</b>, and <b>C++</b></li>
   <li>Skilled in <b>Full-Stack Web Development</b></li>
   <li>Passion for crafting <b>clean, responsive UI/UX</b></li>
   <li>Experience in <b>technical writing</b> and <b>sales internships</b></li>
