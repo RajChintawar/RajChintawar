@@ -4,7 +4,7 @@
 <p style="font-size:19px;">
 
  🔭 I'm an undergraduate student pursuing <b>Computer Science & Engineering (Data Science)</b>.
-     I’m passionate about Full-Stack Development, Data Science, and building digital stuff that actually works most of the time.
+     I’m passionate about Full-Stack Development, Problem Solving, and building digital stuff that actually works most of the time.
      </p>
 
 ## 🚀 About Me
