@@ -20,7 +20,7 @@ Active in tech communities, workshops, and group projects
 Always learning, always building, always debugging stupid mistakes I made
 
 🧠 Tech Stack
-| ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) |
+ ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) 
 
 
 
