@@ -59,7 +59,6 @@
 
 
 
-/*![GitHub Snake Animation](https://raw.githubusercontent.com/RajChintawar/RajChintawar/output/snake.svg)*/
 
 
 
