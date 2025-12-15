@@ -19,27 +19,30 @@
 </ul>
 
 ## 🧠Tech Stack
+![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
 
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
+## ⚙️ Frameworks & Libraries
+### Web & UI
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square)
 
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-007396?style=flat-square)
 
-## Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
-
-## Backend
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+### Python & ML Frameworks (Face Recognition Attendance System)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
 
 ## Databases
 
@@ -53,7 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 
