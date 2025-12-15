@@ -39,7 +39,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-007396?style=for-the-badge)
 
-### Python & ML Frameworks (Face Recognition Attendance System)
+### Python & ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
